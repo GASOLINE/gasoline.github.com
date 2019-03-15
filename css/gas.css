@@ -143,6 +143,10 @@ a {
 a:hover {
   color: silver;
 }
+
+a img:hover {
+  transform:scale(0.9)
+}
 h1 {
   color: #ff9933;
   font-size: 2rem;

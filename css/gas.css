@@ -154,6 +154,13 @@ h1 {
   font-weight: bold;
   margin-bottom: 2rem;
 }
+h3 {
+  color: rgba(255, 255, 255, 0.69);
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
 p {
   color: rgb(236, 236, 236);
   line-height: 1.5;
